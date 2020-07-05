@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
 
-def printMessage(String textMessage){
+def call(String textMessage){
 	print textMessage
 }
